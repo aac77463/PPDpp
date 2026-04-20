@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1776290113 source:/home/areli/PPD++/PPD++/interp1d.cpp
+	<iostream>
+	<vector>
+	"interp1d.h"
+
+1776707123 /home/areli/PPD++/PPD++/interp1d.h
+
+1776716436 source:/home/areli/PPD++/PPD++/main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<numeric>
+	"interp1d.h"
+	"sigma_test.h"
+	"make_grid.h"
+	"constants.h"
+	"find_planet.h"
+
+1776715465 source:/home/areli/PPD++/PPD++/sigma_init.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<numeric>
+	"interp1d.h"
+
+1776386708 /home/areli/PPD++/PPD++/sigma_init.h
+	<iostream>
+	<cmath>
+	<algorithm>
+	<numeric>
+	"interp1d.h"
+
+1776710489 source:/home/areli/PPD++/PPD++/sigma_test.cpp
+	<iostream>
+	"sigma_test.h"
+
+1776710482 /home/areli/PPD++/PPD++/sigma_test.h
+	<tuple>
+	<iostream>
+
+1776715683 source:/home/areli/PPD++/PPD++/make_grid.cpp
+	<vector>
+	<cmath>
+	<iostream>
+	"make_grid.h"
+
+1776711817 /home/areli/PPD++/PPD++/make_grid.h
+
+1776714072 /home/areli/PPD++/PPD++/constants.h
+	<numbers>
+
+1776716183 source:/home/areli/PPD++/PPD++/find_planet.cpp
+	<iostream>
+	<vector>
+	"constants.h"
+	"find_planet.h"
+
+1776716099 /home/areli/PPD++/PPD++/find_planet.h
+
